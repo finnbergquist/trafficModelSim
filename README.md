@@ -11,3 +11,5 @@ Writeup: https://github.com/finnbergquist/traffic_model_simulation/blob/main/Wri
 Check out some other computational Physics research I have done:
 
 https://github.com/finnbergquist/fluid_dynamic
+
+https://github.com/finnbergquist/IsingModel
