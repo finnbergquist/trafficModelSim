@@ -1,6 +1,5 @@
-<h> Traffic Model Simulation </h>
 
-<h2> By Finn Bergquist, Aryeh Carmi, and Braden Fischer </h2>
+<h2> Traffic Simulation: using fluid pertubation models  </h2>
 
 Writeup: https://github.com/finnbergquist/traffic_model_simulation/blob/main/Writup.pdf
 
